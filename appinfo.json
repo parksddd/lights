@@ -1,0 +1,29 @@
+{
+    "appKeys": {
+        "CMD": 0,
+        "RESPONSE": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "parksddd@gmail.com",
+    "longName": "Lights",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/light.png",
+                "menuIcon": true,
+                "name": "light",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Lights",
+    "uuid": "02a7455b-065b-4a88-8298-dca6f6257b94",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
